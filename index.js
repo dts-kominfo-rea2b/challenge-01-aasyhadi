@@ -2,10 +2,10 @@
 // Tentukan tipe data dan struktur data yang menurut kalian tepat
 // Kalian bisa membuat variabel lain untuk dimasukkan ke dalam atribut user agar lebih mudah dibaca
 const firstUser = {
-name: 'Ahmad Asyhadi',
-    gender: 'Male',
-    age: 18,
-    email: 'ahmad@dingdong.com',
+name: 'Monica',
+    gender: 'Female',
+    age: 17,
+    email: 'monica@dingdong.com',
     favoriteColor: ['Yellow', 'Pink', 'White', 'Purple'],
     isHavePet: true,
     educations: [{
@@ -26,10 +26,10 @@ name: 'Ahmad Asyhadi',
     favoriteRestaurant: ['Bento', 'Sushi', 'Pancake', 'Eggy', 'Tempura', 'Bento', 'Eggy', 'Padang', 'Tteok', 'Sushi', 'Sushi']
 };
 const secondUser = {
-    name: 'Maya',
-    gender: 'Female',
-    age: 23,
-    email: 'maya@dingdong.com',
+    name: 'Wendy',
+    gender: 'Male',
+    age: 18,
+    email: 'wendy@dingdong.com',
     favoriteColor: ['Blue', 'Black', 'Grey'],
     isHavePet: false,
     educations: [{
